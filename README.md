@@ -17,6 +17,7 @@ This repository contains a Flask web application for sentiment analysis using na
 - Python 3.x
 - Flask
 - NLTK
+- afinn
 - VaderSentiment
 
 ### Steps
