@@ -23,7 +23,7 @@ This repository contains a Flask web application for sentiment analysis using na
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sentiment-analysis-flask-app.git
+git clone https://github.com/imsiraj/sentiment-analysis-flask-app.git
 
 ```bash
 # Finally run the following command
